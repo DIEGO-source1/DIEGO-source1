@@ -1,9 +1,80 @@
-![Dashboard de Juan Diego Romero Claros: perfil, VISUAL.MAP, system info, ciberseguridad, tecnologías, sitios destacados y enfoque actual](https://raw.githubusercontent.com/DIEGO-source1/DIEGO-source1/main/dashboard.png)
+![HEADER](https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:064875,100:00BFFF&height=140&text=JUAN%20DIEGO%20ROMERO%20CLAROS&fontSize=30&fontColor=FFFFFF&desc=SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY%20%7C%20FULL%20STACK&descSize=15&descAlignY=76)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-romero-claros-b54292349) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/romero_ju1) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JKhrYzEuD/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego_kriptom) [![Escríbeme por correo](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandiegoromeroclaros@gmail.com) [![Escuchar No Other Heart de Mac DeMarco en Spotify](https://img.shields.io/badge/Spotify-No%20Other%20Heart-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/track/4laW52Dhj4RhmYqdXYiYw9)
+## `~/visual.map` | `~/system.info`
 
-[![Abstracthon](https://img.shields.io/badge/Abstracthon-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://abstracthon-demoweb.vercel.app/) [![Key Tube](https://img.shields.io/badge/Key%20Tube-E11D48?style=for-the-badge&logo=vercel&logoColor=white)](https://key-tube.vercel.app/) [![FR13NDS](https://img.shields.io/badge/FR13NDS-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://fr13nds-comunidad.vercel.app)
+| `VISUAL.MAP` | `SYSTEM.INFO` |
+|:---:|:---|
+| ![Diego](https://github.com/DIEGO-source1.png?size=220) | 🟢 **SYSTEM ONLINE** |
+| `DIEGO-source1` | **ROLE:** Software Developer |
+| 🇧🇴 Bolivia | **STACK:** Full Stack |
+| `BUILD • SECURE • CREATE` | **FOCUS:** Cybersecurity |
+| | **DESIGN:** UI/UX |
+| | **DEVOPS:** Linux / Docker |
+| | **COMPANY:** Digital Harbor Bolivia |
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DIEGO-source1&show_icons=true&locale=es&bg_color=06111c&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0&border_color=0e7490&ring_color=22d3ee&border_radius=10) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGO-source1&layout=compact&locale=es&bg_color=06111c&title_color=22d3ee&text_color=e2e8f0&border_color=0e7490&border_radius=10)
+> Construir, aprender y proteger. Así transformamos ideas en oportunidades.
 
-`BUILD · SECURE · LEARN · CREATE · REPEAT`
+---
+
+## `~/technologies`
+
+| `LANGUAGES & FRONTEND` | `BACKEND & DATABASES` |
+|:---:|:---:|
+| ![Frontend](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark) | ![Backend](https://skillicons.dev/icons?i=python,java,go,postgres,mysql,mongodb&theme=dark) |
+
+| `DEVOPS & SECURITY` | `TOOLS & DESIGN` |
+|:---:|:---:|
+| ![DevOps](https://skillicons.dev/icons?i=linux,docker,git,github,bash&theme=dark) | ![Tools](https://skillicons.dev/icons?i=vscode,figma,postman,tailwind,vercel&theme=dark) |
+
+---
+
+## `~/featured.websites`
+
+| `01 // ABSTRACTHON` | `02 // KEY TUBE` | `03 // FR13NDS` |
+|:---:|:---:|:---:|
+| 🚀 Tecnología e innovación | 🎬 Creadores digitales | 👥 Comunidad de Sistemas |
+| [![Web](https://img.shields.io/badge/ABSTRACTHON-VISITAR-00BFFF?style=for-the-badge&labelColor=061525)](https://abstracthon-demoweb.vercel.app/) | [![Web](https://img.shields.io/badge/KEY_TUBE-VISITAR-FF0069?style=for-the-badge&labelColor=061525)](https://key-tube.vercel.app/) | [![Web](https://img.shields.io/badge/FR13NDS-VISITAR-0088FF?style=for-the-badge&labelColor=061525)](https://fr13nds-comunidad.vercel.app/) |
+
+---
+
+## `~/now.playing` | `~/current.focus`
+
+| `NOW PLAYING` | `CURRENT FOCUS` |
+|:---|:---|
+| 🎧 **Mac DeMarco** | 🛡️ Cybersecurity |
+| 🎵 No Other Heart | 💻 Full Stack |
+| 🟢 Spotify | 🐧 Linux & Docker |
+| 🎶 Code • Coffee • Music | 🤖 Inteligencia Artificial |
+| [▶ ESCUCHAR EN SPOTIFY](https://open.spotify.com/track/4laW52Dhj4RhmYqdXYiYw9) | ⚙️ Automatización |
+| [▶ VER EN YOUTUBE](https://youtu.be/lPeJMoms_Ag) | 🔗 Blockchain & Web3 |
+
+---
+
+## `~/github.stats`
+
+| `GITHUB` | `DEVELOPER STATUS` |
+|:---|:---|
+| [DIEGO-source1](https://github.com/DIEGO-source1) | 🟢 Building |
+| 💻 Software Development | 🔐 Security |
+| 🎨 UI/UX Design | ⚡ Learning |
+| 🌐 Web & Mobile | 🚀 Creating |
+
+---
+
+## `~/connect`
+
+| `NETWORK` | `LINK` |
+|:---|:---|
+| 🔵 LinkedIn | [Juan Diego Romero Claros](https://www.linkedin.com/in/juan-diego-romero-claros-b54292349) |
+| ✖️ X | [@romero_ju1](https://x.com/romero_ju1) |
+| 🌐 Facebook | [Mi Facebook](https://www.facebook.com/share/1JKhrYzEuD/) |
+| 📸 Instagram | [@diego_kriptom](https://www.instagram.com/diego_kriptom/) |
+| 📧 Gmail | [Enviar correo](mailto:juandiegoromeroclaros@gmail.com) |
+
+**CONTACT:** juandiegoromeroclaros@gmail.com
+
+---
+
+### `diego@github:~$ exit`
+
+![FOOTER](https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:064875,100:00BFFF&height=65&text=BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE%20%E2%80%A2%20REPEAT&fontSize=16&fontColor=FFFFFF)
